@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Sorting Drag and Drop
-tags:
-- rails
-- solution
-- tutorial
+description: How to execute Sorting with jQuery-ui and rails
+tags: rails solution tutorial
 ---
 
 Source [GoRails](https://gorails.com/episodes/sortable-drag-and-drop) tutorial on Sorting with Drag and Drop.
